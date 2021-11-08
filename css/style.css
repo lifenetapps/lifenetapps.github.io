@@ -261,7 +261,7 @@ img {
 	padding: 17px 0 10px;
 	position: relative;
 	text-align: center;
-	text-transform: uppercase;
+	text-transform: none;
 	width: 940px;
 }
 #body.home .header div ul {
